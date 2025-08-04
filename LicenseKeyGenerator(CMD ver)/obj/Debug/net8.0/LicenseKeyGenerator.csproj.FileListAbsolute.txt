@@ -1,0 +1,14 @@
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\bin\Debug\net8.0\LicenseKeyGenerator.exe
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\bin\Debug\net8.0\LicenseKeyGenerator.deps.json
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\bin\Debug\net8.0\LicenseKeyGenerator.runtimeconfig.json
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\bin\Debug\net8.0\LicenseKeyGenerator.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\bin\Debug\net8.0\LicenseKeyGenerator.pdb
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.AssemblyInfoInputs.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.AssemblyInfo.cs
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\refint\LicenseKeyGenerator.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.pdb
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\LicenseKeyGenerator.genruntimeconfig.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGenerator\obj\Debug\net8.0\ref\LicenseKeyGenerator.dll
