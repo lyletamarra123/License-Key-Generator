@@ -1,14 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "fw5ahrVbzNg=",
+  "dgSpecHash": "nCsoN/tv8rA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tamarralk\\Desktop\\KNM FILES\\UpgradePMServerCertificateTool\\LicenseKeyGenerator\\LicenseKeyGenerator.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tamarralk\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
-    "C:\\Users\\tamarralk\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
-    "C:\\Users\\tamarralk\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
-    "C:\\Users\\tamarralk\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\tamarralk\\Desktop\\KNM FILES\\UpgradePMServerCertificateTool\\License-Key-Gen-App\\License-Key-Generator\\LicenseKeyGenerator(CMD ver)\\LicenseKeyGenerator.csproj",
+  "expectedPackageFiles": [],
   "logs": [
     {
       "code": "NU1803",
