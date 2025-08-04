@@ -1,0 +1,2 @@
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Release\net8.0-windows\win-x64\publish\LicenseKeyGeneratorGUI.pdb
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Release\net8.0-windows\win-x64\publish\LicenseKeyGeneratorGUI.exe

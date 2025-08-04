@@ -1,0 +1,14 @@
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Debug\net8.0-windows\LicenseKeyGeneratorGUI.exe
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Debug\net8.0-windows\LicenseKeyGeneratorGUI.deps.json
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Debug\net8.0-windows\LicenseKeyGeneratorGUI.runtimeconfig.json
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Debug\net8.0-windows\LicenseKeyGeneratorGUI.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\bin\Debug\net8.0-windows\LicenseKeyGeneratorGUI.pdb
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.AssemblyInfoInputs.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.AssemblyInfo.cs
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.csproj.CoreCompileInputs.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\refint\LicenseKeyGeneratorGUI.dll
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.pdb
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\LicenseKeyGeneratorGUI.genruntimeconfig.cache
+C:\Users\tamarralk\Desktop\KNM FILES\UpgradePMServerCertificateTool\LicenseKeyGeneratorGUI\obj\Debug\net8.0-windows\ref\LicenseKeyGeneratorGUI.dll
